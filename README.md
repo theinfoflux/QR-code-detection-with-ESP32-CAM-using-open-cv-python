@@ -1,0 +1,1 @@
+# QR-code-detection-with-ESP32-CAM-using-open-cv-python
